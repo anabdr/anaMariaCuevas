@@ -12,8 +12,9 @@ Este es un proyecto de API de calculadora simple desarrollado en Laravel. La API
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/calculadora-api.git
-    cd calculadora-api
+    git clone 
+    https://github.com/anabdr/anaMariaCuevas.git
+    cd anaMariaCuevas
     ```
 
 2. Instala las dependencias:
